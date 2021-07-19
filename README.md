@@ -1,1 +1,1 @@
-# 🎲 Python Rolling Dice Simulation
+# Python Rolling Dice Simulation
